@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author karthick
+ *
+ */
+module ATMInterface {
+}
